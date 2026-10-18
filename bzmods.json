@@ -4,7 +4,7 @@
     "username": "bzmods",
     "password": "seks",
     "expiresAt": "2026-12-30",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "android_device_id_2",
